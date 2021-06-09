@@ -1,12 +1,12 @@
 
 #visual {
-    background:BLUE;
+    background:green;
     width:1200px;
-    height:400px;
+    height:1200px;
     color:#fff;
     font-size: 50px;
-    margin: 200px auto;
+    margin: 0 auto;
     text-align: center;
-    line-height: 400px;
+    line-height: 1200px;
     font-weight: bold;
 }
