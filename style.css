@@ -1,6 +1,6 @@
 
 #visual {
-    background:green;
+    background:ORANGE;
     width:1200px;
     height:1200px;
     color:#fff;
@@ -9,4 +9,5 @@
     text-align: center;
     line-height: 1200px;
     font-weight: bold;
+    border-radius: 1200px;
 }
